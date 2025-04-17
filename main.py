@@ -1,5 +1,7 @@
-from logic.distances import get_earth_moon_distance_m
+from logic.distances import get_earth_moon_distance_m;
 from logic.plotting import plot_solar_system
+from logic.twodplotting import plot_solar_system;
+
 import time
 if __name__ == "__main__":
     # print("Starting program...")
